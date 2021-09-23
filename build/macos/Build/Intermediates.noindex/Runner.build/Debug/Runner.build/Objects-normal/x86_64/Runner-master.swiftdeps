@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "4a634cd8108224a948dffcbcf6c285ec"
+build_time: [1632412100, 808131000]
+inputs:
+  "/Users/thuongmaihuy/Desktop/github_graphql_client/macos/Runner/MainFlutterWindow.swift": [1631218962, 0]
+  "/Users/thuongmaihuy/Desktop/github_graphql_client/macos/Runner/AppDelegate.swift": [1631218962, 0]
+  "/Users/thuongmaihuy/Desktop/github_graphql_client/macos/Flutter/GeneratedPluginRegistrant.swift": [1632412072, 844887973]
